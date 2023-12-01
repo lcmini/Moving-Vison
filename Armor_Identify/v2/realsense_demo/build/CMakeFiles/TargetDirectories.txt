@@ -1,5 +1,0 @@
-/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/CMakeFiles/edit_cache.dir
-/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/CMakeFiles/rebuild_cache.dir
-/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/src/CMakeFiles/demo.dir
-/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/src/CMakeFiles/edit_cache.dir
-/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/src/CMakeFiles/rebuild_cache.dir

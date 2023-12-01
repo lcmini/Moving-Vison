@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/nano/桌面/auto_aiming_test-main/realsense_demo/build/src",
-  "command": "/usr/bin/g++  -I/home/nano/桌面/auto_aiming_test-main/realsense_demo/src/{OpenCV_INCLUDE_DIRS} -I/home/nano/桌面/auto_aiming_test-main/realsense_demo/src/../include -isystem /home/nano/Opencv/include/opencv4 -g -o CMakeFiles/demo.dir/main.cpp.o -c /home/nano/桌面/auto_aiming_test-main/realsense_demo/src/main.cpp",
-  "file": "/home/nano/桌面/auto_aiming_test-main/realsense_demo/src/main.cpp"
-}
-]

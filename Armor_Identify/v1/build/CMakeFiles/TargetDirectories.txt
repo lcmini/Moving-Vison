@@ -1,5 +1,0 @@
-/home/liu/桌面/Qt_Projects/装甲识别/test/build/CMakeFiles/rebuild_cache.dir
-/home/liu/桌面/Qt_Projects/装甲识别/test/build/CMakeFiles/edit_cache.dir
-/home/liu/桌面/Qt_Projects/装甲识别/test/build/src/CMakeFiles/rebuild_cache.dir
-/home/liu/桌面/Qt_Projects/装甲识别/test/build/src/CMakeFiles/edit_cache.dir
-/home/liu/桌面/Qt_Projects/装甲识别/test/build/src/CMakeFiles/test.dir
