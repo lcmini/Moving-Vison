@@ -1,5 +1,0 @@
-/home/lc/桌面/AUV/build/CMakeFiles/edit_cache.dir
-/home/lc/桌面/AUV/build/CMakeFiles/rebuild_cache.dir
-/home/lc/桌面/AUV/build/src/CMakeFiles/AUV.dir
-/home/lc/桌面/AUV/build/src/CMakeFiles/edit_cache.dir
-/home/lc/桌面/AUV/build/src/CMakeFiles/rebuild_cache.dir
